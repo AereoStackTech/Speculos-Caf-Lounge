@@ -1,0 +1,6 @@
+{
+  "name": "Speculos Café & Lounge",
+  "description": "Artisan specialty coffee, fresh morning pastries, and swift drive-thru & pickup service on Avenue Hassan II in Safi, Morocco.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
